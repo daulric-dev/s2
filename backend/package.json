@@ -13,7 +13,7 @@
     "@fastify/basic-auth": "^6.2.0",
     "@fastify/static": "^10.1.2",
     "@nestjs/common": "^11.1.3",
-    "@nestjs/config": "^4.0.2",
+    "@nestjs/config": "^12.0.0",
     "@nestjs/core": "^11.1.3",
     "@nestjs/platform-fastify": "^11.1.17",
     "@nestjs/platform-ws": "^11.1.3",
